@@ -27,6 +27,7 @@ npm-debug.log*
 /.next
 /out
 /.cache
+пше 
 # IDEs and editors
 /.idea
 /.vscode
@@ -38,3 +39,6 @@ npm-debug.log*
 *.pem
 .DS_Store
 Thumbs.db
+
+.vercel
+.env*
